@@ -1,3 +1,31 @@
 .card-body {
     background-color: #9CAF88;
 }
+nav {
+    background-color: #9CAF88;
+}
+.nav-link {
+    color: white;
+    font-size: medium;
+}
+.logo {
+    height: 95px;
+}
+footer {
+    background-color: #9CAF88;
+} 
+body{
+    background-color:antiquewhite;
+}
+.footer-links {
+    background-color: #9CAF88;
+}
+.footer-text {
+    color:darkolivegreen
+}
+.github {
+    color:white
+}
+.image {
+    height: 156px;
+}
