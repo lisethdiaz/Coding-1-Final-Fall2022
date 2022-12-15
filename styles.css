@@ -29,3 +29,9 @@ body{
 .image {
     height: 156px;
 }
+hr {
+    color:darkslategrey
+} 
+.fs-2 {
+    color:darkslategrey
+}
